@@ -1,1 +1,12 @@
+.App{
+    background: #282c34;
+    height: 100vh;
 
+    /* nos servira para degradar el color */
+    background: linear-gradient(180deg, 
+    #ffc400e5 0%,
+    #902de6 15%,
+    #5c03eb 30%,
+    #5100ff 45%,
+    #020113 100%);
+}
