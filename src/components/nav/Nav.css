@@ -5,3 +5,7 @@
 .bor{
     border-bottom: 3px solid rgb(105, 105, 97);
 }
+.circulo {
+    border-radius: 50%;
+    
+}
