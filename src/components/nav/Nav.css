@@ -1,11 +1,11 @@
 
 .parrafoNav {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .bor{
     border-bottom: 3px solid rgb(105, 105, 97);
 }
-.circulo {
+/*.circulo {
     border-radius: 50%;
     
-}
+}*/

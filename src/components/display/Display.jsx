@@ -4,12 +4,15 @@ import './Display.css'
 const Display = () => {
     return(
         <div className="container xl">
-            <h1 className="text-end my-5 text-white">
-                <h1 className="color-green">Hello My Name is Luis Garcia</h1>
-                <h3 className="mb-4">I make websites</h3>
-                <h6>I'm frot-end developer and I was working in the Institute Technological of Mexico in my social service. 
+            <h1 className="text-center my-5 text-white parrafoDisplay">
+                <h1 className="color-green">Desarrollador web</h1>
+                <h3 className="mb-4">I'm Frontend Disigner and know a few backend </h3>
+                <h6 className="mt-5">
+                    I'm frot-end developer and I was working in the Institute Technological of Mexico in my social service. 
                 </h6>
-                <h6>I'm a student of the career of Information Technolis</h6>
+                <h6 className="mt-5">
+                    Sé todo lo relacionado con Programacion Orientada a Objetos POO, aparte que estoy aprendiendo Java Functional. 
+                </h6>
             </h1>
         </div>
     )

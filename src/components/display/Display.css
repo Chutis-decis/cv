@@ -1,3 +1,8 @@
 .color-green{
     color: rgb(207, 136, 255);
+    font-size: 5.5rem;
+    
+}
+.parrafoDisplay{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
