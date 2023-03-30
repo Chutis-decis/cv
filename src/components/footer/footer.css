@@ -1,0 +1,19 @@
+.colorBtn2{
+    background: rgb(8,8,8);
+    background: linear-gradient(90deg, rgba(8,8,8,1) 0%, rgba(43,80,5,1) 60%, rgba(8,8,8,1) 100%);
+}
+.colorBtn1{
+    background: rgb(8,8,8);
+background: linear-gradient(90deg, rgba(8,8,8,1) 0%, rgba(5,80,73,1) 60%, rgba(8,8,8,1) 100%);
+}
+.colorBtn3{
+    background: rgb(8,8,8);
+    background: linear-gradient(90deg, rgba(8,8,8,1) 0%, rgba(80,5,43,1) 60%, rgba(8,8,8,1) 100%);
+}
+.categoria img{
+    transition-property: transform;
+    transition-duration: 300ms;
+}
+.categoria img:hover{
+    transform: scale(1.5);
+}
