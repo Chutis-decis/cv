@@ -18,7 +18,7 @@ const Fotter = () => {
                             <img className="card-img-top btn colorBtn1" src={pruebaOne} alt="Data Scientist" />
                             </div>
                         <div className="car-body text-center bg-primary text-white ´5">
-                            hola
+                            holas
                         </div>
                     </div> 
                 </div>
